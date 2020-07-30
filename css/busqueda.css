@@ -1,0 +1,83 @@
+
+   
+   fieldset{
+  background :rgb(214, 209, 209);
+ border-radius: 1px solid #333;
+ padding: 0 0 0 0px;
+
+   }
+
+  fieldset input ,button {
+   position: relative;
+   float: right;
+   width: 200px;
+   height: 37px;
+   right: 10px;
+   left: 0px;
+   padding: 0px;
+   border-radius: 1px solid #333;
+  }
+   input{
+       border: none;
+       color : rgb(97, 96, 96)
+       padding 0px;
+       margin: auto;
+   }
+ 
+   button {
+      width: 50px; 
+      border: none;
+      background:rgb(255, 255, 255);
+      top: 0px;
+      margin : 0px;
+     
+     
+     
+     
+   }
+   .fa-search{
+    width: 20px;
+    height: 20px;
+    padding: 0;  
+    right: 0px;
+    left : 0px;
+    top : 0px;
+    
+    position: relative;
+    color: blue;
+   }
+
+
+   input:focus{
+    outline: none;
+   }
+
+  #algo{
+     padding: 0  0 2px 0 ;
+     width: 30px;
+     height: 30px;
+     top: 7px;
+     right: 20px;
+     position: unset;
+  }
+  
+  .contedor_principal{
+
+   position: relative;
+   padding-left: 0em;
+   height: 100px;
+   color: blue;
+   border-radius: 1px;
+   
+  }
+  
+
+
+  
+  
+  
+
+
+  
+  
+  
